@@ -13,7 +13,7 @@ const returnFirstTwoDrivers= function (driver) {
  return function(fare) {
    return fare * number} }
  
-const  = function(number) {
+const fareDoubler = function(number) {
  return function faraf(fare) {
    return fare * number} 
   return faref()*2
