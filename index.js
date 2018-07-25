@@ -11,6 +11,4 @@ const returnFirstTwoDrivers= function (driver) {
   
  const createFareMultiplier = function(number) {
  return function(fare) {
-   return fare * number;
- };
-};
+   return fare * number} };
