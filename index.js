@@ -12,6 +12,9 @@ const returnFirstTwoDrivers= function (driver) {
  const createFareMultiplier = function(number) {
  return function(fare) {
    return fare * number} }
- const fareDoubler=function(fare) {
-     return fare()*2
+ 
+const  = function(number) {
+ return function faraf(fare) {
+   return fare * number} 
+  return faref()*2
 }
