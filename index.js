@@ -16,3 +16,6 @@ const returnFirstTwoDrivers= function (driver) {
 const fareDoubler = function(fare) {
      return fare * 2;
 }
+const fareDoubler = function(fare) {
+     return fare * 2;
+}
